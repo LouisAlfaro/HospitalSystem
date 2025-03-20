@@ -39,7 +39,6 @@ Este repositorio contiene un proyecto en Laravel que cumple con los siguientes p
     php artisan key:generate
     Edita .env para ajustar las credenciales de tu base de datos:
     ini
-    Copiar código
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
     DB_PORT=3306
