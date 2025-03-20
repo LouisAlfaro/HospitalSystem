@@ -27,8 +27,8 @@ Este repositorio contiene un proyecto en Laravel que cumple con los siguientes p
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
-   cd tu-repo
+   git clone [https://github.com/LouisAlfaro/HospitalSystem
+   
 
 2. **Instalar dependencias:**
    composer install
