@@ -34,6 +34,7 @@ Este repositorio contiene un proyecto en Laravel que cumple con los siguientes p
    composer install
 
 3. **Configurar archivo .env:**
+    ```bash
     cp .env.example .env
     php artisan key:generate
     Edita .env para ajustar las credenciales de tu base de datos:
@@ -54,5 +55,6 @@ En la carpeta scripts se incluyen archivos .sql para:
 03_stored_procedures.sql: Definir los stored procedures (hospital_registrar, hospital_actualizar, hospital_eliminar, hospital_listar).
 
 **Ejecución de la Aplicación**
-  php artisan serve
+  ```bash
+ php artisan serve
 
